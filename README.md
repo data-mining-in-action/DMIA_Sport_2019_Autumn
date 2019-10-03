@@ -5,7 +5,7 @@
 Здесь мы с вами установим Python с нужными библиотеками. Вам нужно выбрать вариант, которым вы хотите воспользоваться - использовать Conda или virtualenv.
 
 ## Conda
-Если у вас Linux, вы можете воспользоваться [этим скриптом](). Его нужно скопировать в консоль и выполнить, или скачать (например, wget) и выполнить `chmod +x script.py && bash script.py`.
+Если у вас Linux, вы можете воспользоваться [этим скриптом](https://github.com/data-mining-in-action/DMIA_Sport_2019_Autumn/blob/master/CondaInstallationForLinux.sh). Его нужно скопировать в консоль и выполнить, или скачать (например, wget) и выполнить `chmod +x script.py && bash script.py`.
 
 Если у вас mac или windows, [загрузите Anaconda](https://www.anaconda.com/distribution/), а затем в Terminal (Mac OS) или Anaconda Prompt (Windows) выполните строчки из скрипта выше, начиная с `# create new environment and basic list of packages in it`. Поступите аналогично, если у вас уже установлена conda.
 
