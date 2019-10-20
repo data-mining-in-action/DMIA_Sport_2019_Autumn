@@ -1,5 +1,7 @@
 # DMIA, Спортивное направление. Осень 2019
 
+[Course requirements](## Course requirements)
+
 ## Course requirements
 
 Здесь мы с вами установим Python с нужными библиотеками. Вам нужно выбрать вариант, которым вы хотите воспользоваться - использовать Conda или virtualenv.
