@@ -1,6 +1,11 @@
 # DMIA, Спортивное направление. Осень 2019
 
-[Course requirements](#course-requirements)
+Содержимое:
+- [Course requirements](#course-requirements)
+- [Conda](#conda)
+- [Virtualenv](#virtualenv)
+- [Использование Jupyter Notebook](#использование-jupyter-notebook)
+- [План лекций](#план-лекций)
 
 ## Course requirements
 
