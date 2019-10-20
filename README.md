@@ -1,6 +1,6 @@
 # DMIA, Спортивное направление. Осень 2019
 
-[Course requirements](Course-requirements)
+[Course requirements](#course-requirements)
 
 ## Course requirements
 
