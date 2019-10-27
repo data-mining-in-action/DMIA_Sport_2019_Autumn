@@ -37,14 +37,14 @@
 
 ### 2019-10-07 Обзорная лекция про соревнования
 
-https://hackmd.io/@aguschin/BJODbTruB#/8
+https://hackmd.io/@aguschin/BJODbTruB#
 
 ### 2019-10-12 Визуализации и EDA
 
 - Лекционная часть 
-	- Расписание семестра - https://hackmd.io/@aguschin/r1A-dDJKH#/
-	- Визуализации - https://hackmd.io/@aguschin/SyQZoNsuH#/
-	- EDA - https://hackmd.io/@aguschin/r1Z3nfidr#/
+	- Расписание семестра - https://hackmd.io/@aguschin/r1A-dDJKH#
+	- Визуализации - https://hackmd.io/@aguschin/SyQZoNsuH#
+	- EDA - https://hackmd.io/@aguschin/r1Z3nfidr#
 - Семинарская часть
 	- в seminars/EDA
 - Обсуждение
@@ -53,9 +53,17 @@ https://hackmd.io/@aguschin/BJODbTruB#/8
 ### 2019-10-19 Метрики, валидация, бейзлайн
 
 - Лекционная часть
-	- Метрики - lectures/Metrics.pdf
-	- Валидация - lectures/Validation.pdf
+	- Метрики - [lectures/Metrics.pdf](lectures/Metrics.pdf)
+	- Валидация - [lectures/Validation.pdf](lectures/Validation.pdf)
 - Семинарская часть
 	- в seminars/baseline
 - Обсуждение
 	- идеи для второго соревнования
+
+### 2019-10-26 Генерация признаков, DL в соревнованиях
+
+- Лекционная часть
+	- Генерация признаков - https://hackmd.io/@0lgaF/SkYHPDy5r#
+	- DL в соревнованиях - [lectures/DeepLearning.pdf](lectures/DeepLearning.pdf)
+- Обсуждение
+	- решения победителей второго соревнования
