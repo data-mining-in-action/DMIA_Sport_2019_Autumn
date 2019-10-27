@@ -63,7 +63,7 @@ https://hackmd.io/@aguschin/BJODbTruB#
 ### 2019-10-26 Генерация признаков, DL в соревнованиях
 
 - Лекционная часть
-	- Генерация признаков - https://hackmd.io/@0lgaF/SkYHPDy5r#
-	- DL в соревнованиях - [lectures/DeepLearning.pdf](lectures/DeepLearning.pdf)
+	- Генерация признаков (табличные данные) - https://hackmd.io/@0lgaF/SkYHPDy5r#
+	- Извлечение признаков из текстов и картинок - [lectures/FeatureExtractionFromTextsAndImages.pdf](lectures/FeatureExtractionFromTextsAndImages.pdf)
 - Обсуждение
 	- решения победителей второго соревнования
