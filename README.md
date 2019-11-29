@@ -37,33 +37,56 @@
 
 ### 2019-10-07 Обзорная лекция про соревнования
 
-https://hackmd.io/@aguschin/BJODbTruB#
+[Презентация](https://hackmd.io/@aguschin/BJODbTruB)
 
 ### 2019-10-12 Визуализации и EDA
 
 - Лекционная часть 
-	- Расписание семестра - https://hackmd.io/@aguschin/r1A-dDJKH#
-	- Визуализации - https://hackmd.io/@aguschin/SyQZoNsuH#
-	- EDA - https://hackmd.io/@aguschin/r1Z3nfidr#
+	- [Расписание семестра](https://hackmd.io/@aguschin/r1A-dDJKH)
+	- [Визуализации](https://hackmd.io/@aguschin/SyQZoNsuH)
+	- [EDA](https://hackmd.io/@aguschin/r1Z3nfidr)
 - Семинарская часть
-	- в seminars/EDA
+	- [EDA](seminars/EDA)
 - Обсуждение
 	- решения победителей competitions/passwords
 
 ### 2019-10-19 Метрики, валидация, бейзлайн
 
 - Лекционная часть
-	- Метрики - [lectures/Metrics.pdf](lectures/Metrics.pdf)
-	- Валидация - [lectures/Validation.pdf](lectures/Validation.pdf)
+	- [Метрики](lectures/Metrics.pdf)
+	- [Валидация](lectures/Validation.pdf)
 - Семинарская часть
-	- в seminars/baseline
+	- [Пример фреймворка для решения соревнования](seminars/baseline)
 - Обсуждение
-	- идеи для второго соревнования
+	- Идеи для второго соревнования
 
 ### 2019-10-26 Генерация признаков, DL в соревнованиях
 
 - Лекционная часть
-	- Генерация признаков (табличные данные) - https://hackmd.io/@0lgaF/SkYHPDy5r#
-	- Извлечение признаков из текстов и картинок - [lectures/FeatureExtractionFromTextsAndImages.pdf](lectures/FeatureExtractionFromTextsAndImages.pdf)
+	- [Генерация признаков (табличные данные)](https://hackmd.io/@0lgaF/SkYHPDy5r)
+	- [Извлечение признаков из текстов и картинок](lectures/FeatureExtractionFromTextsAndImages.pdf)
 - Обсуждение
-	- решения победителей второго соревнования
+	- Решения победителей второго соревнования
+
+### 2019-11-16
+- Лекционная часть
+	- [Тюнинг моделей](lectures/ModelTuning.pdf)
+	- [Аренда серверов](lectures/ServerRent.pdf)
+- Обсуждение
+	- Идеи для текущего соревнования (Sendy logistics challenge)
+	
+### 2019-11-23
+- Лекционная часть
+	- [Кодирование средним](lectures/MeanEncoding.pdf)
+	- [Сложные признаки](lectures/AdvancedFeatures.pdf)
+- Семинарская часть
+	- [Кодирование средним](seminars/mean_encoding)
+	- [Ускорение вычислений](seminars/ComputingFaster.ipynb)
+- Обсуждение
+	- Текущее соревнование
+	
+### 2019-11-30
+- Лекционная часть
+	- Ансамбли моделей
+- Обсуждение
+	- Решения соревнования Sendy logistics challenge
